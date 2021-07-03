@@ -42,7 +42,7 @@ const Navbar = (props) => {
                       <MenuIcon /> 
                   </IconButton>
                 <Typography variant="h6" className={classes.title}>
-                  un titulo !!! 
+                  un titulo nuevo 
                 </Typography>
                 <Button variant="text" color="inherit">
                     Login 
